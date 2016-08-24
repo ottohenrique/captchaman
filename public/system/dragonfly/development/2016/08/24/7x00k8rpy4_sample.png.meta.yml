@@ -1,0 +1,4 @@
+---
+name: sample.png
+model_class: Captcha
+model_attachment: image
